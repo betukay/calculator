@@ -1,6 +1,8 @@
 # Javascript Calculator
 Great for arithematic calculations!
 
+<img src="icons/readmeImage.png">
+
 ## Features
 
 * Addition
